@@ -32,7 +32,7 @@
     "no-unused-expressions": ["off"],
     "symbol-description": ["off"],
     "no-use-before-define": ["off"],
-    "prettier/prettier": ["off"] // disable prettier rules for now.
+    "prettier/prettier": ["error"]
   },
   "overrides": [
     {
